@@ -2,3 +2,5 @@
 gem 'minitest'
 
 require 'minitest/autorun'
+
+require_relative '../lib/ugly_trivia/game'
