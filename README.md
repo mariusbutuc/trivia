@@ -20,6 +20,7 @@ Did your Legacy Code Retreat go well? You could thank me with a flattr: <a href=
 
 3. You can only wear [one hat][two-hats] at a time
   - the _add functionality_ hat
+  - the _refactoring_ hat
 
 ## Misc
 
