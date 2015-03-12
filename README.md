@@ -10,3 +10,10 @@ Did your Legacy Code Retreat go well? You could thank me with a flattr: <a href=
 0. Have a _tight feedback loop_
   - once files change, run tests automatically
   - `guard` is a good example from the ruby world
+
+1. Be _deterministic_
+  - remove non-determinism / randomness
+  - make use of [`srand()`][srand] — give it a seed
+
+
+[srand]: http://ruby-doc.org/core-2.2.1/Random.html#srand-method

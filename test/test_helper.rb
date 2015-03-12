@@ -4,3 +4,5 @@ gem 'minitest'
 require 'minitest/autorun'
 
 require_relative '../lib/ugly_trivia/game'
+
+Dir[File.join(__dir__, 'fixtures', '*.rb')].each { |file| require file }
