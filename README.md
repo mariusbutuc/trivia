@@ -18,6 +18,9 @@ Did your Legacy Code Retreat go well? You could thank me with a flattr: <a href=
 2. Look for _public methods_ that return anything remotely useful
   - `#was_correctly_answered` looks like a good candidate
 
+3. You can only wear [one hat][two-hats] at a time
+  - the _add functionality_ hat
+
 ## Misc
 
 [![Travis CI][travis-svg]][travis-ci]
@@ -26,6 +29,8 @@ Did your Legacy Code Retreat go well? You could thank me with a flattr: <a href=
 
 
 [srand]: http://ruby-doc.org/core-2.2.1/Random.html#srand-method
+[two-hats]: http://martinfowler.com/articles/workflowsOfRefactoring/#2hats
+[two-hats-origin]: https://nulogy.com/articles/why-dont-you-start-a-reading-group
 [travis-ci]: https://travis-ci.org/mariusbutuc/trivia
 [travis-svg]: https://travis-ci.org/mariusbutuc/trivia.svg
 [c-climate]: https://codeclimate.com/github/mariusbutuc/trivia
