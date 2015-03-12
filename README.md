@@ -15,5 +15,12 @@ Did your Legacy Code Retreat go well? You could thank me with a flattr: <a href=
   - remove non-determinism / randomness
   - make use of [`srand()`][srand] — give it a seed
 
+## Misc
+
+[![Travis CI][travis-svg]][travis-ci]
+
+
 
 [srand]: http://ruby-doc.org/core-2.2.1/Random.html#srand-method
+[travis-ci]: https://travis-ci.org/mariusbutuc/trivia
+[travis-svg]: https://travis-ci.org/mariusbutuc/trivia.svg
