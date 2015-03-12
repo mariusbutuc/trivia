@@ -1,6 +1,3 @@
-require 'rspec/core/rake_task'
-RSpec::Core::RakeTask.new(:spec)
-
 require 'rake/testtask'
 Rake::TestTask.new(:minitest) do |t|
   t.libs.push 'lib'

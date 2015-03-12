@@ -6,7 +6,4 @@ group :test do
   gem 'guard-minitest'
   gem 'minitest'
   gem 'rake'
-
-  # Installing both. Why choose??
-  gem 'rspec'
 end
