@@ -15,6 +15,9 @@ Did your Legacy Code Retreat go well? You could thank me with a flattr: <a href=
   - remove non-determinism / randomness
   - make use of [`srand()`][srand] — give it a seed
 
+2. Look for _public methods_ that return anything remotely useful
+  - `#was_correctly_answered` looks like a good candidate
+
 ## Misc
 
 [![Travis CI][travis-svg]][travis-ci]
