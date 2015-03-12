@@ -18,9 +18,14 @@ Did your Legacy Code Retreat go well? You could thank me with a flattr: <a href=
 ## Misc
 
 [![Travis CI][travis-svg]][travis-ci]
-
+[![Code Climate][c-climate-gpa]][c-climate]
+[![Test Coverage][c-climate-cov]][c-climate]
 
 
 [srand]: http://ruby-doc.org/core-2.2.1/Random.html#srand-method
 [travis-ci]: https://travis-ci.org/mariusbutuc/trivia
 [travis-svg]: https://travis-ci.org/mariusbutuc/trivia.svg
+[c-climate]: https://codeclimate.com/github/mariusbutuc/trivia
+[c-climate-gpa]: https://codeclimate.com/github/mariusbutuc/trivia/badges/gpa.svg
+[c-climate-cov]: https://codeclimate.com/github/mariusbutuc/trivia/badges/coverage.svg
+
